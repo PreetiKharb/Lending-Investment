@@ -1,0 +1,17 @@
+Ordered Categorical,Unordered Categorical,Continous,Date
+"'term',","'home_ownership',","'loan_amnt',","'issue_d',"
+"'int_rate',","'verification_status',","'funded_amnt',","'earliest_cr_line',"
+"'installment',","'loan_status',","'funded_amnt_inv',","'last_pymnt_d',"
+"'grade',","'purpose',","'annual_inc',","'last_credit_pull_d',"
+"'sub_grade',","'addr_state',","'revol_bal',",
+"'emp_length',",,"'revol_util',",
+"'dti',",,"'out_prncp',",
+"'delinq_2yrs',",,"'out_prncp_inv',",
+"'inq_last_6mths',",,"'total_pymnt',",
+"'open_acc',",,"'total_pymnt_inv',",
+"'pub_rec',",,"'total_rec_prncp',",
+"'total_acc',",,"'total_rec_int',",
+'pub_rec_bankruptcies',,"'total_rec_late_fee',",
+,,"'recoveries',",
+,,"'collection_recovery_fee',",
+,,"'last_pymnt_amnt',",
